@@ -1,4 +1,4 @@
-# RadiantCancerDetect
+# BreastCancerDetect
 RadiantCancerDetect uses machine learning to detect breast cancer from mammograms. Our web interface simplifies analysis for medical professionals, aiding in early detection and improved patient outcomes.
 
 ## Features
@@ -16,11 +16,11 @@ RadiantCancerDetect uses machine learning to detect breast cancer from mammogram
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Vinu-1975/RadiantCancerDetect.git
+git clone https://github.com/Vaibhav-C-S/BreastCancerDetection.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd RadiantCancerDetect
+cd BreastCancerDetection
 ```
 3. Setup & Activate the virtual environment (if using):
 ```bash
